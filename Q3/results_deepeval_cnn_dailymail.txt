@@ -1,0 +1,742 @@
+Evaluating distilgpt2
+What is the Berry Export Summary 2028 and what is its purpose?
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+Caption: Tasmanian berry grower Nic Hansen showing Macau chef Antimo Merone around his property as part of export engagement activities.
+THE RISE and rise of the Australian strawberry, raspberry and blackberry industries has seen the sectors redouble their international trade focus, with the release of a dedicated export plan to grow their global presence over the next 10 years.
+Driven by significant grower input, the Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+Hort Innovation trade manager Jenny Van de Meeberg said the value and volume of raspberry and blackberry exports rose by 100 per cent between 2016 and 2017. She said the Australian strawberry industry experienced similar success with an almost 30 per cent rise in export volume and a 26 per cent rise in value to $32.6M over the same period.
+“Australian berry sectors are in a firm position at the moment,” she said. “Production, adoption of protected substrate cropping, improved genetics and an expanding geographic footprint have all helped put Aussie berries on a positive trajectory.
+“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”
+
+Tasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.
+“We have a great product, we are hungry to expand trade and now with this new plan in place, we have a clear roadmap towards driving growth,” Mr Hansen said.
+He said it is exciting to see new export market prospects for raspberries: “The more options we have for export the better. Now we just have to get on with the job of ensuring industry has all the tools it needs, such as supporting data and relationship building opportunities, to thrive in new markets.”
+This project was commissioned by Hort Innovation, and developed by market analysts and research consultants Auspex Strategic Advisory and AgInfinity. Hort Innovation will work now with berry sectors to determine levy-funded activities to support trade.
+See a summary of the strategy on the Hort Innovation website.
+For more information on the berry industries, refer to the Horticulture Statistics Handbook and the Strategic Investment Plans for strawberries, raspberries and blackberries. Growers seeking more information should email trade@horticulture.com.au
+
+“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”
+High-income countries across Europe, North America and Northern Asia have been identified as having a palate for Australian grown berries with more than 4244 tonnes of fresh berries exported in the last financial year alone.
+The strategy identified the best short-term prospect markets for the Australian blackberry and raspberry industry as Hong Kong, Singapore, The United Arab Emirates and Canada. The strongest short-term trade options identified for the strawberry sector were Thailand, Malaysia, New Zealand and Macau.
+The strategy focuses heavily on growing the existing strawberry export market from 4 per cent to at least 8 per cent of national production by volume, in markets with a capacity and willingness to pay a premium for quality fruit. For raspberries and blackberries, the sectors aim to achieve a 5 per cent boost in exports assessed by volume across identified markets by 2021.
+Tasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.
+
+Question: What is the Berry Export Summary 2028 and what is its purpose?
+Helpful Answer:
+We offer the following objectives
+– Produce in the near future, maintain sustainable and environmentally sound fruit products with the highest possible number of varieties
+– In the near future, share the available berries
+– In the near future, share the available berries In the near future, distribute the available berries
+– In the near future, supply the available berries
+– In the near future, distribute the available berries
+– In the near future, distribute the available berries
+– In the near future, distribute the available berries
+– In the near future, distribute the available berries
+– In the near future, distribute the available berries
+– In the near future, distribute the available berries
+– In the near future, distribute the available
+The Berry Export Summary 2028 is a dedicated export plan for the Australian strawberry, raspberry, and blackberry industries. It maps the sectors’ current position, where they want to be, high-opportunity markets, and next steps. The purpose of this plan is to grow their global presence over the next 10 years.
+['Caption: Tasmanian berry grower Nic Hansen showing Macau chef Antimo Merone around his property as part of export engagement activities.\nTHE RISE and rise of the Australian strawberry, raspberry and blackberry industries has seen the sectors redouble their international trade focus, with the release of a dedicated export plan to grow their global presence over the next 10 years.\nDriven by significant grower input, the Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.\nHort Innovation trade manager Jenny Van de Meeberg said the value and volume of raspberry and blackberry exports rose by 100 per cent between 2016 and 2017. She said the Australian strawberry industry experienced similar success with an almost 30 per cent rise in export volume and a 26 per cent rise in value to $32.6M over the same period.\n“Australian berry sectors are in a firm position at the moment,” she said. “Production, adoption of protected substrate cropping, improved genetics and an expanding geographic footprint have all helped put Aussie berries on a positive trajectory.\n“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”', 'Tasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.\n“We have a great product, we are hungry to expand trade and now with this new plan in place, we have a clear roadmap towards driving growth,” Mr Hansen said.\nHe said it is exciting to see new export market prospects for raspberries: “The more options we have for export the better. Now we just have to get on with the job of ensuring industry has all the tools it needs, such as supporting data and relationship building opportunities, to thrive in new markets.”\nThis project was commissioned by Hort Innovation, and developed by market analysts and research consultants Auspex Strategic Advisory and AgInfinity. Hort Innovation will work now with berry sectors to determine levy-funded activities to support trade.\nSee a summary of the strategy on the Hort Innovation website.\nFor more information on the berry industries, refer to the Horticulture Statistics Handbook and the Strategic Investment Plans for strawberries, raspberries and blackberries. Growers seeking more information should email trade@horticulture.com.au', '“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”\nHigh-income countries across Europe, North America and Northern Asia have been identified as having a palate for Australian grown berries with more than 4244 tonnes of fresh berries exported in the last financial year alone.\nThe strategy identified the best short-term prospect markets for the Australian blackberry and raspberry industry as Hong Kong, Singapore, The United Arab Emirates and Canada. The strongest short-term trade options identified for the strawberry sector were Thailand, Malaysia, New Zealand and Macau.\nThe strategy focuses heavily on growing the existing strawberry export market from 4 per cent to at least 8 per cent of national production by volume, in markets with a capacity and willingness to pay a premium for quality fruit. For raspberries and blackberries, the sectors aim to achieve a 5 per cent boost in exports assessed by volume across identified markets by 2021.\nTasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.']
+-------------
+What are some of the benefits reported from having access to Self-supply water sources?
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+RWSN Collaborations
+Southern Africa Self-supply Study Review of Self-supply and its support services in African countries
+A lady in Zimbabwe proudly shows off her onions - watered from her self-supply well
+© 2015 André Olschewski • Skat
+Project starts: 2015
+Project finished: 2016
+Collaborators & Partners:.
+Project Description
+UNICEF and Skat have collaborated on a).
+Perspectives
+Reach and benefits:
+- Self-supply is practised by millions of rural households in Sub-Sahara Africa as well as in Europe, USA and other areas of the world.
+- Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.
+- Sustainability of services from Self-supply is high as there is strong ownership by people investing in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in Self-supply, often at no costs. This means that Self-supply can be effective in reaching the hard-to-reach.
+
+- Interministerial cooperation and champions within government agencies are needed to ensure sustainable embedding and for taking Self-supply further, particularly in remote rural areas.
+- There is no-one-size-fits-all solution for supported Self-supply – for each programme, it needs a contextualized design and follow-up to achieve desired impact.
+- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.
+- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.
+More Information
+» Review of Self-supply and its support services in African countries: Synthesis Report).
+
+- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.
+- However, in areas where external support for Self-supply is lacking, only marginal improvements can usually be achieved, and the quality of services is lower than in areas where a dedicated support effort was made.
+Costs and business model for supported Self-supply
+- In many rural contexts, supported Self-supply is the most cost effective approach for water service delivery. However, as it is not applicable in all contexts, a blended approach combining communal water supply and supported Self-supply models should be followed.
+- Based on a Life Cycle Cost (LCC) analysis of different service delivery approaches, the LCC for communal supplies are about 40 US$/capita served in the study countries, whereas the LCC for supported Self-supply is about 10 U$/capita.
+- In sparsely populated areas, communal supplies (e.g. handpumps) are even more costly (up to 100 U$/capita served) as only few people can be served with one additional unit. Serving all rural people with communal supply is therefore not financially viable.
+
+Question: What are some of the benefits reported from having access to Self-supply water sources?
+Helpful Answer:
+- A common cause of distress for many members of local community organisations is the lack of available supplies for the population.
+- The cost of using self-supply is $5.9/year. The cost for food and essentials from self-supply is $3/year.
+- For example, with a family of three in Uganda or Tanzania, the cost of delivering meals (in this case meals) would be $4/year. Some of the benefits reported in the study countries include that it is often much of the cost of delivering the food, services etc.
+- For example, in certain counties, the cost for an adequate day's milk provided for at least four hours a day is $3/year. That makes it much more expensive and to do so without a lot of time spent getting a decent day's milk.
+- While there are some benefits, most other benefits of the community provide
+Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.
+['RWSN Collaborations\nSouthern Africa Self-supply Study Review of Self-supply and its support services in African countries\nA lady in Zimbabwe proudly shows off her onions - watered from her self-supply well\n© 2015 André Olschewski • Skat\nProject starts: 2015\nProject finished: 2016\nCollaborators & Partners:.\nProject Description\nUNICEF and Skat have collaborated on a).\nPerspectives\nReach and benefits:\n- Self-supply is practised by millions of rural households in Sub-Sahara Africa as well as in Europe, USA and other areas of the world.\n- Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.\n- Sustainability of services from Self-supply is high as there is strong ownership by people investing in own sources.\n- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in Self-supply, often at no costs. This means that Self-supply can be effective in reaching the hard-to-reach.', '- Interministerial cooperation and champions within government agencies are needed to ensure sustainable embedding and for taking Self-supply further, particularly in remote rural areas.\n- There is no-one-size-fits-all solution for supported Self-supply – for each programme, it needs a contextualized design and follow-up to achieve desired impact.\n- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.\n- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.\nMore Information\n» Review of Self-supply and its support services in African countries: Synthesis Report).', '- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.\n- However, in areas where external support for Self-supply is lacking, only marginal improvements can usually be achieved, and the quality of services is lower than in areas where a dedicated support effort was made.\nCosts and business model for supported Self-supply\n- In many rural contexts, supported Self-supply is the most cost effective approach for water service delivery. However, as it is not applicable in all contexts, a blended approach combining communal water supply and supported Self-supply models should be followed.\n- Based on a Life Cycle Cost (LCC) analysis of different service delivery approaches, the LCC for communal supplies are about 40 US$/capita served in the study countries, whereas the LCC for supported Self-supply is about 10 U$/capita.\n- In sparsely populated areas, communal supplies (e.g. handpumps) are even more costly (up to 100 U$/capita served) as only few people can be served with one additional unit. Serving all rural people with communal supply is therefore not financially viable.']
+-------------
+What are the unique features of the Coolands for Twitter app?
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+All Android applications categories
+Description
+Coolands for Twitter is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.
+The first unique feature is Real-Time.
+You can’t find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.
+The second unique feature is Avatar Indicator.
+Avatar Indicator is small avatars showed on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll keep getting incoming tweets while you’re reading your older timeline, Avatar-Indicator will let you know who’s tweet you’ve just got, and decide whether to check it out right away.
+The third unique feature is Direct Link
+I think it is obviously the most intuitive and convenient way to open a link. When you want to open a link, just click it in the time line . You can also click a username to open a profile window, click a hash tag to open a search result window. Different kind of links displayed in different colors, you can change it to whatever color you like.
+
+*Ad-Free.
+*3 times faster when launching and loading older tweets.
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than only for the current account.
+*Improved mention suggestion feature.
+*Use URL link to do RT with comment, so you can comment more characters.
+*Conversation view, click the orange(you can change the color) username in replied tweet to show conversation view.
+*Support longer tweet, longer tweet will be converted to a picture automatically. You really should try it out your self.
+*Refined tweet composing view, to support longer tweet.
+*Support handle text shared by other app.
+from 103 reviews
+Download Coolands for Twitter
+Free - V1.38 - 298K
+Sorry ...
+This app is no longer available.
+Share this app
+Screenshots
+
+The fifth unique feature is User Level Notification
+Notification for all your new tweets is meaningless, if you following more than a few users, you’ll get new tweets all the time. What if you only want to be notified when someone you most care about posted a new tweet? In this app, it’s easy. You can change your friend’s notification setting directly in his/her profile screen. You can also set different notification ringtone for your friends respectively. So when you heard a notification ringtone, you’ll know who he/she is without the need to open your phone. And you can manage all the enabled User-Level-Notification settings in one place.
+Also has most of the basic twitter client features, like post/delete tweets, retweet, retweet with comment, reply, quote, send/delete direct message, subscribe/unsubscribe lists, follow/unfollow user, multiple accounts support, append picture with your tweets, mention auto complete, recent search auto complete, conversation view.
+Please give me feedbacks if you have tried it, and I PROMISE to reply all your emails.
+1.30-1.36 update:
+*Ad-Free.
+*3 times faster when launching and loading older tweets.
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than only for the current account.
+*Improved mention suggestion feature.
+
+Question: What are the unique features of the Coolands for Twitter app?
+Helpful Answer: User Level Notification
+Notification on how to create User Level Notification
+Notification on how to create User Level Notification
+Notification on when to create comment
+Comments
+Comments
+If you like about comments or other tips, please share it with us!
+The unique features of the Coolands for Twitter app include Real-Time updates without the need for a refresh button, Avatar Indicator which shows small avatars on the title bar for new messages, Direct Link for intuitive and convenient link opening, Smart Bookmark to easily return to previous reading position, and User Level Notification which allows customized notification settings for different users.
+['All Android applications categories\nDescription\nCoolands for Twitter is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.\nThe first unique feature is Real-Time.\nYou can’t find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.\nThe second unique feature is Avatar Indicator.\nAvatar Indicator is small avatars showed on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll keep getting incoming tweets while you’re reading your older timeline, Avatar-Indicator will let you know who’s tweet you’ve just got, and decide whether to check it out right away.\nThe third unique feature is Direct Link\nI think it is obviously the most intuitive and convenient way to open a link. When you want to open a link, just click it in the time line . You can also click a username to open a profile window, click a hash tag to open a search result window. Different kind of links displayed in different colors, you can change it to whatever color you like.', '*Ad-Free.\n*3 times faster when launching and loading older tweets.\n*Support unlimited accounts rather than 3 accounts.\n*Support notifications for all accounts rather than only for the current account.\n*Improved mention suggestion feature.\n*Use URL link to do RT with comment, so you can comment more characters.\n*Conversation view, click the orange(you can change the color) username in replied tweet to show conversation view.\n*Support longer tweet, longer tweet will be converted to a picture automatically. You really should try it out your self.\n*Refined tweet composing view, to support longer tweet.\n*Support handle text shared by other app.\nfrom 103 reviews\nDownload Coolands for Twitter\nFree - V1.38 - 298K\nSorry ...\nThis app is no longer available.\nShare this app\nScreenshots', 'The fifth unique feature is User Level Notification\nNotification for all your new tweets is meaningless, if you following more than a few users, you’ll get new tweets all the time. What if you only want to be notified when someone you most care about posted a new tweet? In this app, it’s easy. You can change your friend’s notification setting directly in his/her profile screen. You can also set different notification ringtone for your friends respectively. So when you heard a notification ringtone, you’ll know who he/she is without the need to open your phone. And you can manage all the enabled User-Level-Notification settings in one place.\nAlso has most of the basic twitter client features, like post/delete tweets, retweet, retweet with comment, reply, quote, send/delete direct message, subscribe/unsubscribe lists, follow/unfollow user, multiple accounts support, append picture with your tweets, mention auto complete, recent search auto complete, conversation view.\nPlease give me feedbacks if you have tried it, and I PROMISE to reply all your emails.\n1.30-1.36 update:\n*Ad-Free.\n*3 times faster when launching and loading older tweets.\n*Support unlimited accounts rather than 3 accounts.\n*Support notifications for all accounts rather than only for the current account.\n*Improved mention suggestion feature.']
+-------------
+DEEPEVAL
+0.8333333333333333
+The score is 0.83 because the 'no' verdict for the second node is ranked lower than the 'yes' verdicts for the first and third nodes, ensuring that relevant nodes are prioritized in the context.
+1.0
+The score is 1.00 because all the expected output sentences are directly supported and attributed to the 1st node in the retrieval context, which comprehensively covers the unique features of the Coolands for Twitter app.
+0.9411764705882353
+The score is 0.94 because the irrelevant statement about 'All Android applications categories' lowered the score slightly, but overall the output provided relevant information about the unique features of the Coolands for Twitter app.
+0.75
+The score is 0.75 because there is a contradiction where the actual output mentions a feature called User Level Notification for Coolands for Twitter, which is not found in the retrieval context.
+RAGAS
+0.8333333332916666
+None
+0.8
+None
+0.0
+None
+0.8888888888888888
+None
+============
+============
+Evaluating facebook/opt-125m
+What is the Berry Export Summary 2028 and what is its purpose?
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+Caption: Tasmanian berry grower Nic Hansen showing Macau chef Antimo Merone around his property as part of export engagement activities.
+THE RISE and rise of the Australian strawberry, raspberry and blackberry industries has seen the sectors redouble their international trade focus, with the release of a dedicated export plan to grow their global presence over the next 10 years.
+Driven by significant grower input, the Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+Hort Innovation trade manager Jenny Van de Meeberg said the value and volume of raspberry and blackberry exports rose by 100 per cent between 2016 and 2017. She said the Australian strawberry industry experienced similar success with an almost 30 per cent rise in export volume and a 26 per cent rise in value to $32.6M over the same period.
+“Australian berry sectors are in a firm position at the moment,” she said. “Production, adoption of protected substrate cropping, improved genetics and an expanding geographic footprint have all helped put Aussie berries on a positive trajectory.
+“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”
+
+Tasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.
+“We have a great product, we are hungry to expand trade and now with this new plan in place, we have a clear roadmap towards driving growth,” Mr Hansen said.
+He said it is exciting to see new export market prospects for raspberries: “The more options we have for export the better. Now we just have to get on with the job of ensuring industry has all the tools it needs, such as supporting data and relationship building opportunities, to thrive in new markets.”
+This project was commissioned by Hort Innovation, and developed by market analysts and research consultants Auspex Strategic Advisory and AgInfinity. Hort Innovation will work now with berry sectors to determine levy-funded activities to support trade.
+See a summary of the strategy on the Hort Innovation website.
+For more information on the berry industries, refer to the Horticulture Statistics Handbook and the Strategic Investment Plans for strawberries, raspberries and blackberries. Growers seeking more information should email trade@horticulture.com.au
+
+“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”
+High-income countries across Europe, North America and Northern Asia have been identified as having a palate for Australian grown berries with more than 4244 tonnes of fresh berries exported in the last financial year alone.
+The strategy identified the best short-term prospect markets for the Australian blackberry and raspberry industry as Hong Kong, Singapore, The United Arab Emirates and Canada. The strongest short-term trade options identified for the strawberry sector were Thailand, Malaysia, New Zealand and Macau.
+The strategy focuses heavily on growing the existing strawberry export market from 4 per cent to at least 8 per cent of national production by volume, in markets with a capacity and willingness to pay a premium for quality fruit. For raspberries and blackberries, the sectors aim to achieve a 5 per cent boost in exports assessed by volume across identified markets by 2021.
+Tasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.
+
+Question: What is the Berry Export Summary 2028 and what is its purpose?
+Helpful Answer:
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028
+The Berry Export Summary 2028 is a dedicated export plan for the Australian strawberry, raspberry, and blackberry industries. It maps the sectors’ current position, where they want to be, high-opportunity markets, and next steps. The purpose of this plan is to grow their global presence over the next 10 years.
+['Caption: Tasmanian berry grower Nic Hansen showing Macau chef Antimo Merone around his property as part of export engagement activities.\nTHE RISE and rise of the Australian strawberry, raspberry and blackberry industries has seen the sectors redouble their international trade focus, with the release of a dedicated export plan to grow their global presence over the next 10 years.\nDriven by significant grower input, the Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.\nHort Innovation trade manager Jenny Van de Meeberg said the value and volume of raspberry and blackberry exports rose by 100 per cent between 2016 and 2017. She said the Australian strawberry industry experienced similar success with an almost 30 per cent rise in export volume and a 26 per cent rise in value to $32.6M over the same period.\n“Australian berry sectors are in a firm position at the moment,” she said. “Production, adoption of protected substrate cropping, improved genetics and an expanding geographic footprint have all helped put Aussie berries on a positive trajectory.\n“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”', 'Tasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.\n“We have a great product, we are hungry to expand trade and now with this new plan in place, we have a clear roadmap towards driving growth,” Mr Hansen said.\nHe said it is exciting to see new export market prospects for raspberries: “The more options we have for export the better. Now we just have to get on with the job of ensuring industry has all the tools it needs, such as supporting data and relationship building opportunities, to thrive in new markets.”\nThis project was commissioned by Hort Innovation, and developed by market analysts and research consultants Auspex Strategic Advisory and AgInfinity. Hort Innovation will work now with berry sectors to determine levy-funded activities to support trade.\nSee a summary of the strategy on the Hort Innovation website.\nFor more information on the berry industries, refer to the Horticulture Statistics Handbook and the Strategic Investment Plans for strawberries, raspberries and blackberries. Growers seeking more information should email trade@horticulture.com.au', '“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”\nHigh-income countries across Europe, North America and Northern Asia have been identified as having a palate for Australian grown berries with more than 4244 tonnes of fresh berries exported in the last financial year alone.\nThe strategy identified the best short-term prospect markets for the Australian blackberry and raspberry industry as Hong Kong, Singapore, The United Arab Emirates and Canada. The strongest short-term trade options identified for the strawberry sector were Thailand, Malaysia, New Zealand and Macau.\nThe strategy focuses heavily on growing the existing strawberry export market from 4 per cent to at least 8 per cent of national production by volume, in markets with a capacity and willingness to pay a premium for quality fruit. For raspberries and blackberries, the sectors aim to achieve a 5 per cent boost in exports assessed by volume across identified markets by 2021.\nTasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.']
+-------------
+What are some of the benefits reported from having access to Self-supply water sources?
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+RWSN Collaborations
+Southern Africa Self-supply Study Review of Self-supply and its support services in African countries
+A lady in Zimbabwe proudly shows off her onions - watered from her self-supply well
+© 2015 André Olschewski • Skat
+Project starts: 2015
+Project finished: 2016
+Collaborators & Partners:.
+Project Description
+UNICEF and Skat have collaborated on a).
+Perspectives
+Reach and benefits:
+- Self-supply is practised by millions of rural households in Sub-Sahara Africa as well as in Europe, USA and other areas of the world.
+- Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.
+- Sustainability of services from Self-supply is high as there is strong ownership by people investing in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in Self-supply, often at no costs. This means that Self-supply can be effective in reaching the hard-to-reach.
+
+- Interministerial cooperation and champions within government agencies are needed to ensure sustainable embedding and for taking Self-supply further, particularly in remote rural areas.
+- There is no-one-size-fits-all solution for supported Self-supply – for each programme, it needs a contextualized design and follow-up to achieve desired impact.
+- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.
+- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.
+More Information
+» Review of Self-supply and its support services in African countries: Synthesis Report).
+
+- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.
+- However, in areas where external support for Self-supply is lacking, only marginal improvements can usually be achieved, and the quality of services is lower than in areas where a dedicated support effort was made.
+Costs and business model for supported Self-supply
+- In many rural contexts, supported Self-supply is the most cost effective approach for water service delivery. However, as it is not applicable in all contexts, a blended approach combining communal water supply and supported Self-supply models should be followed.
+- Based on a Life Cycle Cost (LCC) analysis of different service delivery approaches, the LCC for communal supplies are about 40 US$/capita served in the study countries, whereas the LCC for supported Self-supply is about 10 U$/capita.
+- In sparsely populated areas, communal supplies (e.g. handpumps) are even more costly (up to 100 U$/capita served) as only few people can be served with one additional unit. Serving all rural people with communal supply is therefore not financially viable.
+
+Question: What are some of the benefits reported from having access to Self-supply water sources?
+Helpful Answer:
+- Self-supply is practised by millions of rural households in Sub-Sahara Africa as well as in Europe, USA and other areas of the world.
+- Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources.
+- As Self-supply
+Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.
+['RWSN Collaborations\nSouthern Africa Self-supply Study Review of Self-supply and its support services in African countries\nA lady in Zimbabwe proudly shows off her onions - watered from her self-supply well\n© 2015 André Olschewski • Skat\nProject starts: 2015\nProject finished: 2016\nCollaborators & Partners:.\nProject Description\nUNICEF and Skat have collaborated on a).\nPerspectives\nReach and benefits:\n- Self-supply is practised by millions of rural households in Sub-Sahara Africa as well as in Europe, USA and other areas of the world.\n- Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.\n- Sustainability of services from Self-supply is high as there is strong ownership by people investing in own sources.\n- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in Self-supply, often at no costs. This means that Self-supply can be effective in reaching the hard-to-reach.', '- Interministerial cooperation and champions within government agencies are needed to ensure sustainable embedding and for taking Self-supply further, particularly in remote rural areas.\n- There is no-one-size-fits-all solution for supported Self-supply – for each programme, it needs a contextualized design and follow-up to achieve desired impact.\n- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.\n- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.\nMore Information\n» Review of Self-supply and its support services in African countries: Synthesis Report).', '- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.\n- However, in areas where external support for Self-supply is lacking, only marginal improvements can usually be achieved, and the quality of services is lower than in areas where a dedicated support effort was made.\nCosts and business model for supported Self-supply\n- In many rural contexts, supported Self-supply is the most cost effective approach for water service delivery. However, as it is not applicable in all contexts, a blended approach combining communal water supply and supported Self-supply models should be followed.\n- Based on a Life Cycle Cost (LCC) analysis of different service delivery approaches, the LCC for communal supplies are about 40 US$/capita served in the study countries, whereas the LCC for supported Self-supply is about 10 U$/capita.\n- In sparsely populated areas, communal supplies (e.g. handpumps) are even more costly (up to 100 U$/capita served) as only few people can be served with one additional unit. Serving all rural people with communal supply is therefore not financially viable.']
+-------------
+What are the unique features of the Coolands for Twitter app?
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+All Android applications categories
+Description
+Coolands for Twitter is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.
+The first unique feature is Real-Time.
+You can’t find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.
+The second unique feature is Avatar Indicator.
+Avatar Indicator is small avatars showed on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll keep getting incoming tweets while you’re reading your older timeline, Avatar-Indicator will let you know who’s tweet you’ve just got, and decide whether to check it out right away.
+The third unique feature is Direct Link
+I think it is obviously the most intuitive and convenient way to open a link. When you want to open a link, just click it in the time line . You can also click a username to open a profile window, click a hash tag to open a search result window. Different kind of links displayed in different colors, you can change it to whatever color you like.
+
+*Ad-Free.
+*3 times faster when launching and loading older tweets.
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than only for the current account.
+*Improved mention suggestion feature.
+*Use URL link to do RT with comment, so you can comment more characters.
+*Conversation view, click the orange(you can change the color) username in replied tweet to show conversation view.
+*Support longer tweet, longer tweet will be converted to a picture automatically. You really should try it out your self.
+*Refined tweet composing view, to support longer tweet.
+*Support handle text shared by other app.
+from 103 reviews
+Download Coolands for Twitter
+Free - V1.38 - 298K
+Sorry ...
+This app is no longer available.
+Share this app
+Screenshots
+
+The fifth unique feature is User Level Notification
+Notification for all your new tweets is meaningless, if you following more than a few users, you’ll get new tweets all the time. What if you only want to be notified when someone you most care about posted a new tweet? In this app, it’s easy. You can change your friend’s notification setting directly in his/her profile screen. You can also set different notification ringtone for your friends respectively. So when you heard a notification ringtone, you’ll know who he/she is without the need to open your phone. And you can manage all the enabled User-Level-Notification settings in one place.
+Also has most of the basic twitter client features, like post/delete tweets, retweet, retweet with comment, reply, quote, send/delete direct message, subscribe/unsubscribe lists, follow/unfollow user, multiple accounts support, append picture with your tweets, mention auto complete, recent search auto complete, conversation view.
+Please give me feedbacks if you have tried it, and I PROMISE to reply all your emails.
+1.30-1.36 update:
+*Ad-Free.
+*3 times faster when launching and loading older tweets.
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than only for the current account.
+*Improved mention suggestion feature.
+
+Question: What are the unique features of the Coolands for Twitter app?
+Helpful Answer:
+1.
+The Coolands for Twitter app is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.
+The first unique feature is Real-Time.
+You can’t find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.
+The second unique feature is Real-Time.
+You can’t find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.
+The second unique feature is Avatar Indicator.
+Avatar Indicator is small avatars shown on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll keep getting incoming tweets while you’re reading your older timeline, Avatar-Indicator will let you know who’s tweet you’ve just got, and decide whether to check it out right away.
+The third unique feature is Direct Link
+I think it is obviously the most intuitive and convenient way to open a link. When you want to open a link, just click it in the time line. You can also click a username to open a profile window, click a hash tag to open a search result window. Different kind of links displayed in different colors, you can change it to whatever color you like.
+
+*Ad-Free.
+*3 times faster when launching and loading older tweets.
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion feature.
+
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than just for the current account.
+*Improved mention suggestion
+The unique features of the Coolands for Twitter app include Real-Time updates without the need for a refresh button, Avatar Indicator which shows small avatars on the title bar for new messages, Direct Link for intuitive and convenient link opening, Smart Bookmark to easily return to previous reading position, and User Level Notification which allows customized notification settings for different users.
+['All Android applications categories\nDescription\nCoolands for Twitter is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.\nThe first unique feature is Real-Time.\nYou can’t find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.\nThe second unique feature is Avatar Indicator.\nAvatar Indicator is small avatars showed on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll keep getting incoming tweets while you’re reading your older timeline, Avatar-Indicator will let you know who’s tweet you’ve just got, and decide whether to check it out right away.\nThe third unique feature is Direct Link\nI think it is obviously the most intuitive and convenient way to open a link. When you want to open a link, just click it in the time line . You can also click a username to open a profile window, click a hash tag to open a search result window. Different kind of links displayed in different colors, you can change it to whatever color you like.', '*Ad-Free.\n*3 times faster when launching and loading older tweets.\n*Support unlimited accounts rather than 3 accounts.\n*Support notifications for all accounts rather than only for the current account.\n*Improved mention suggestion feature.\n*Use URL link to do RT with comment, so you can comment more characters.\n*Conversation view, click the orange(you can change the color) username in replied tweet to show conversation view.\n*Support longer tweet, longer tweet will be converted to a picture automatically. You really should try it out your self.\n*Refined tweet composing view, to support longer tweet.\n*Support handle text shared by other app.\nfrom 103 reviews\nDownload Coolands for Twitter\nFree - V1.38 - 298K\nSorry ...\nThis app is no longer available.\nShare this app\nScreenshots', 'The fifth unique feature is User Level Notification\nNotification for all your new tweets is meaningless, if you following more than a few users, you’ll get new tweets all the time. What if you only want to be notified when someone you most care about posted a new tweet? In this app, it’s easy. You can change your friend’s notification setting directly in his/her profile screen. You can also set different notification ringtone for your friends respectively. So when you heard a notification ringtone, you’ll know who he/she is without the need to open your phone. And you can manage all the enabled User-Level-Notification settings in one place.\nAlso has most of the basic twitter client features, like post/delete tweets, retweet, retweet with comment, reply, quote, send/delete direct message, subscribe/unsubscribe lists, follow/unfollow user, multiple accounts support, append picture with your tweets, mention auto complete, recent search auto complete, conversation view.\nPlease give me feedbacks if you have tried it, and I PROMISE to reply all your emails.\n1.30-1.36 update:\n*Ad-Free.\n*3 times faster when launching and loading older tweets.\n*Support unlimited accounts rather than 3 accounts.\n*Support notifications for all accounts rather than only for the current account.\n*Improved mention suggestion feature.']
+-------------
+DEEPEVAL
+0.8333333333333333
+The score is 0.83 because the relevant nodes (first and third) are ranked higher than the irrelevant node (second).
+1.0
+The score is 1.00 because the expected output directly matches the information retrieved from the 1st node in the retrieval context, highlighting the unique features of the Coolands for Twitter app.
+0.9411764705882353
+The score is 0.94 because the statement about 'All Android applications categories' is irrelevant to the input, bringing down the relevancy score slightly.
+0.6923076923076923
+The score is 0.69 because the actual output contains several contradictions such as claiming the app is revolutionary, supports unlimited accounts, notifications for all accounts, and User Level Notification feature, which are not supported by the retrieval context.
+RAGAS
+0.8333333332916666
+None
+0.8
+None
+0.0
+None
+0.84
+None
+============
+============
+Evaluating EleutherAI/gpt-neo-125M
+What is the Berry Export Summary 2028 and what is its purpose?
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+Caption: Tasmanian berry grower Nic Hansen showing Macau chef Antimo Merone around his property as part of export engagement activities.
+THE RISE and rise of the Australian strawberry, raspberry and blackberry industries has seen the sectors redouble their international trade focus, with the release of a dedicated export plan to grow their global presence over the next 10 years.
+Driven by significant grower input, the Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+Hort Innovation trade manager Jenny Van de Meeberg said the value and volume of raspberry and blackberry exports rose by 100 per cent between 2016 and 2017. She said the Australian strawberry industry experienced similar success with an almost 30 per cent rise in export volume and a 26 per cent rise in value to $32.6M over the same period.
+“Australian berry sectors are in a firm position at the moment,” she said. “Production, adoption of protected substrate cropping, improved genetics and an expanding geographic footprint have all helped put Aussie berries on a positive trajectory.
+“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”
+
+Tasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.
+“We have a great product, we are hungry to expand trade and now with this new plan in place, we have a clear roadmap towards driving growth,” Mr Hansen said.
+He said it is exciting to see new export market prospects for raspberries: “The more options we have for export the better. Now we just have to get on with the job of ensuring industry has all the tools it needs, such as supporting data and relationship building opportunities, to thrive in new markets.”
+This project was commissioned by Hort Innovation, and developed by market analysts and research consultants Auspex Strategic Advisory and AgInfinity. Hort Innovation will work now with berry sectors to determine levy-funded activities to support trade.
+See a summary of the strategy on the Hort Innovation website.
+For more information on the berry industries, refer to the Horticulture Statistics Handbook and the Strategic Investment Plans for strawberries, raspberries and blackberries. Growers seeking more information should email trade@horticulture.com.au
+
+“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”
+High-income countries across Europe, North America and Northern Asia have been identified as having a palate for Australian grown berries with more than 4244 tonnes of fresh berries exported in the last financial year alone.
+The strategy identified the best short-term prospect markets for the Australian blackberry and raspberry industry as Hong Kong, Singapore, The United Arab Emirates and Canada. The strongest short-term trade options identified for the strawberry sector were Thailand, Malaysia, New Zealand and Macau.
+The strategy focuses heavily on growing the existing strawberry export market from 4 per cent to at least 8 per cent of national production by volume, in markets with a capacity and willingness to pay a premium for quality fruit. For raspberries and blackberries, the sectors aim to achieve a 5 per cent boost in exports assessed by volume across identified markets by 2021.
+Tasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.
+
+Question: What is the Berry Export Summary 2028 and what is its purpose?
+Helpful Answer: The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.
+
+The Berry Export Summary 2028 maps the
+The Berry Export Summary 2028 is a dedicated export plan for the Australian strawberry, raspberry, and blackberry industries. It maps the sectors’ current position, where they want to be, high-opportunity markets, and next steps. The purpose of this plan is to grow their global presence over the next 10 years.
+['Caption: Tasmanian berry grower Nic Hansen showing Macau chef Antimo Merone around his property as part of export engagement activities.\nTHE RISE and rise of the Australian strawberry, raspberry and blackberry industries has seen the sectors redouble their international trade focus, with the release of a dedicated export plan to grow their global presence over the next 10 years.\nDriven by significant grower input, the Berry Export Summary 2028 maps the sectors’ current position, where they want to be, high-opportunity markets and next steps.\nHort Innovation trade manager Jenny Van de Meeberg said the value and volume of raspberry and blackberry exports rose by 100 per cent between 2016 and 2017. She said the Australian strawberry industry experienced similar success with an almost 30 per cent rise in export volume and a 26 per cent rise in value to $32.6M over the same period.\n“Australian berry sectors are in a firm position at the moment,” she said. “Production, adoption of protected substrate cropping, improved genetics and an expanding geographic footprint have all helped put Aussie berries on a positive trajectory.\n“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”', 'Tasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.\n“We have a great product, we are hungry to expand trade and now with this new plan in place, we have a clear roadmap towards driving growth,” Mr Hansen said.\nHe said it is exciting to see new export market prospects for raspberries: “The more options we have for export the better. Now we just have to get on with the job of ensuring industry has all the tools it needs, such as supporting data and relationship building opportunities, to thrive in new markets.”\nThis project was commissioned by Hort Innovation, and developed by market analysts and research consultants Auspex Strategic Advisory and AgInfinity. Hort Innovation will work now with berry sectors to determine levy-funded activities to support trade.\nSee a summary of the strategy on the Hort Innovation website.\nFor more information on the berry industries, refer to the Horticulture Statistics Handbook and the Strategic Investment Plans for strawberries, raspberries and blackberries. Growers seeking more information should email trade@horticulture.com.au', '“We are seeing a real transition point. Broad industry interest and a strong commercial appetite for export market development combined with the potential to capitalise on existing trade agreements and build new trade partnerships has created this perfect environment for growth.”\nHigh-income countries across Europe, North America and Northern Asia have been identified as having a palate for Australian grown berries with more than 4244 tonnes of fresh berries exported in the last financial year alone.\nThe strategy identified the best short-term prospect markets for the Australian blackberry and raspberry industry as Hong Kong, Singapore, The United Arab Emirates and Canada. The strongest short-term trade options identified for the strawberry sector were Thailand, Malaysia, New Zealand and Macau.\nThe strategy focuses heavily on growing the existing strawberry export market from 4 per cent to at least 8 per cent of national production by volume, in markets with a capacity and willingness to pay a premium for quality fruit. For raspberries and blackberries, the sectors aim to achieve a 5 per cent boost in exports assessed by volume across identified markets by 2021.\nTasmanian raspberry exporter Nic Hansen said Australia offers some of the sweetest and most attractive berries in the world, and this combined with our stringent food safety standards across all stages of the supply chain puts growers in a solid position.']
+-------------
+What are some of the benefits reported from having access to Self-supply water sources?
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+RWSN Collaborations
+Southern Africa Self-supply Study Review of Self-supply and its support services in African countries
+A lady in Zimbabwe proudly shows off her onions - watered from her self-supply well
+© 2015 André Olschewski • Skat
+Project starts: 2015
+Project finished: 2016
+Collaborators & Partners:.
+Project Description
+UNICEF and Skat have collaborated on a).
+Perspectives
+Reach and benefits:
+- Self-supply is practised by millions of rural households in Sub-Sahara Africa as well as in Europe, USA and other areas of the world.
+- Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.
+- Sustainability of services from Self-supply is high as there is strong ownership by people investing in own sources.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in Self-supply, often at no costs. This means that Self-supply can be effective in reaching the hard-to-reach.
+
+- Interministerial cooperation and champions within government agencies are needed to ensure sustainable embedding and for taking Self-supply further, particularly in remote rural areas.
+- There is no-one-size-fits-all solution for supported Self-supply – for each programme, it needs a contextualized design and follow-up to achieve desired impact.
+- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.
+- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.
+More Information
+» Review of Self-supply and its support services in African countries: Synthesis Report).
+
+- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.
+- However, in areas where external support for Self-supply is lacking, only marginal improvements can usually be achieved, and the quality of services is lower than in areas where a dedicated support effort was made.
+Costs and business model for supported Self-supply
+- In many rural contexts, supported Self-supply is the most cost effective approach for water service delivery. However, as it is not applicable in all contexts, a blended approach combining communal water supply and supported Self-supply models should be followed.
+- Based on a Life Cycle Cost (LCC) analysis of different service delivery approaches, the LCC for communal supplies are about 40 US$/capita served in the study countries, whereas the LCC for supported Self-supply is about 10 U$/capita.
+- In sparsely populated areas, communal supplies (e.g. handpumps) are even more costly (up to 100 U$/capita served) as only few people can be served with one additional unit. Serving all rural people with communal supply is therefore not financially viable.
+
+Question: What are some of the benefits reported from having access to Self-supply water sources?
+Helpful Answer:
+- The benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.
+- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in own sources. This means that Self-supply can be effective in reaching the hard-to-reach.
+- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.
+- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.
+More Information
+» Review of Self-supply and its support services in African countries: Synthesis Report).
+
+- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.
+- However, in areas where external support for Self-supply is lacking, only marginal improvements can usually be achieved, and the quality of services is lower than in areas where a dedicated support effort was made.
+- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.
+- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.
+More Information
+» Review of Self-supply and its support services in African countries: Synthesis Report).
+
+- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.
+- However, in areas where external support for Self-supply is lacking, only marginal improvements can usually be achieved, and the quality of services is lower than in areas where a dedicated support effort was made.
+- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.
+- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.
+More Information
+» Review of Self-supply and its support services in African countries: Synthesis Report).
+
+- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.
+- However, in areas where external support for Self-supply is lacking, only marginal improvements can usually be achieved, and the quality of services is lower than in areas where a dedicated support effort was made.
+- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.
+- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.
+More Information
+» Review of Self-supply and its support services in African countries: Synthesis Report).
+
+- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.
+Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.
+['RWSN Collaborations\nSouthern Africa Self-supply Study Review of Self-supply and its support services in African countries\nA lady in Zimbabwe proudly shows off her onions - watered from her self-supply well\n© 2015 André Olschewski • Skat\nProject starts: 2015\nProject finished: 2016\nCollaborators & Partners:.\nProject Description\nUNICEF and Skat have collaborated on a).\nPerspectives\nReach and benefits:\n- Self-supply is practised by millions of rural households in Sub-Sahara Africa as well as in Europe, USA and other areas of the world.\n- Benefits reported from having access to Self-supply water sources include convenience, less time spent for fetching water and access to more and better quality water. In some areas, Self-supply sources offer important added values such as water for productive use, income generation, family safety and improved food security.\n- Sustainability of services from Self-supply is high as there is strong ownership by people investing in own sources.\n- As Self-supply sources are shared sources, many people, including poor and vulnerable households, benefit from investments in Self-supply, often at no costs. This means that Self-supply can be effective in reaching the hard-to-reach.', '- Interministerial cooperation and champions within government agencies are needed to ensure sustainable embedding and for taking Self-supply further, particularly in remote rural areas.\n- There is no-one-size-fits-all solution for supported Self-supply – for each programme, it needs a contextualized design and follow-up to achieve desired impact.\n- Hygiene promotion, including Household Water Treatment and Safe Storage (HWTS), is highly recommended for any non-piped water supply services, including Self-supply water sources.\n- The huge potential for substantially improving the level of water supply for millions of people in rural areas should be accessed through supported Self-supply. Some countries have endorsed supported Self-supply as service delivery model, such as Zimbabwe or Sierra Leone, and in Ethiopia, Self-supply is now being scaled up at national level.\nMore Information\n» Review of Self-supply and its support services in African countries: Synthesis Report).', '- For millions of people in rural areas of Africa, supported Self-supply will be the most cost effective service delivery model to provide access to safe water. This also includes those parts of the population which actually have poor access as they e.g. cannot afford water from communal supplies.\n- However, in areas where external support for Self-supply is lacking, only marginal improvements can usually be achieved, and the quality of services is lower than in areas where a dedicated support effort was made.\nCosts and business model for supported Self-supply\n- In many rural contexts, supported Self-supply is the most cost effective approach for water service delivery. However, as it is not applicable in all contexts, a blended approach combining communal water supply and supported Self-supply models should be followed.\n- Based on a Life Cycle Cost (LCC) analysis of different service delivery approaches, the LCC for communal supplies are about 40 US$/capita served in the study countries, whereas the LCC for supported Self-supply is about 10 U$/capita.\n- In sparsely populated areas, communal supplies (e.g. handpumps) are even more costly (up to 100 U$/capita served) as only few people can be served with one additional unit. Serving all rural people with communal supply is therefore not financially viable.']
+-------------
+What are the unique features of the Coolands for Twitter app?
+Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer.
+
+All Android applications categories
+Description
+Coolands for Twitter is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.
+The first unique feature is Real-Time.
+You can’t find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.
+The second unique feature is Avatar Indicator.
+Avatar Indicator is small avatars showed on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll keep getting incoming tweets while you’re reading your older timeline, Avatar-Indicator will let you know who’s tweet you’ve just got, and decide whether to check it out right away.
+The third unique feature is Direct Link
+I think it is obviously the most intuitive and convenient way to open a link. When you want to open a link, just click it in the time line . You can also click a username to open a profile window, click a hash tag to open a search result window. Different kind of links displayed in different colors, you can change it to whatever color you like.
+
+*Ad-Free.
+*3 times faster when launching and loading older tweets.
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than only for the current account.
+*Improved mention suggestion feature.
+*Use URL link to do RT with comment, so you can comment more characters.
+*Conversation view, click the orange(you can change the color) username in replied tweet to show conversation view.
+*Support longer tweet, longer tweet will be converted to a picture automatically. You really should try it out your self.
+*Refined tweet composing view, to support longer tweet.
+*Support handle text shared by other app.
+from 103 reviews
+Download Coolands for Twitter
+Free - V1.38 - 298K
+Sorry ...
+This app is no longer available.
+Share this app
+Screenshots
+
+The fifth unique feature is User Level Notification
+Notification for all your new tweets is meaningless, if you following more than a few users, you’ll get new tweets all the time. What if you only want to be notified when someone you most care about posted a new tweet? In this app, it’s easy. You can change your friend’s notification setting directly in his/her profile screen. You can also set different notification ringtone for your friends respectively. So when you heard a notification ringtone, you’ll know who he/she is without the need to open your phone. And you can manage all the enabled User-Level-Notification settings in one place.
+Also has most of the basic twitter client features, like post/delete tweets, retweet, retweet with comment, reply, quote, send/delete direct message, subscribe/unsubscribe lists, follow/unfollow user, multiple accounts support, append picture with your tweets, mention auto complete, recent search auto complete, conversation view.
+Please give me feedbacks if you have tried it, and I PROMISE to reply all your emails.
+1.30-1.36 update:
+*Ad-Free.
+*3 times faster when launching and loading older tweets.
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than only for the current account.
+*Improved mention suggestion feature.
+
+Question: What are the unique features of the Coolands for Twitter app?
+Helpful Answer:
+
+Coolands for Twitter is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.
+The first unique feature is Real-Time.
+You can’t find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.
+The second unique feature is Avatar Indicator.
+Avatar Indicator is small avatars showed on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll keep getting incoming tweets while you’re reading, Avatar-Indicator will let you know who’s tweet you’ve just got, and decide whether to check it out right away.
+The third unique feature is Direct Link.
+I think it is obviously the most intuitive and convenient way to open a link. When you want to open a link, just click it in the time line. You can also click a username to open a profile window, click a hash tag to open a search result window. Different kind of links displayed in different colors, you can change it to whatever color you like.
+
+*Ad-Free.
+*3 times faster when launching and loading older tweets.
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than only for the current account.
+*Improved mention suggestion feature.
+
+Question: What are the unique features of the Coolands for Twitter app?
+Helpful Answer:
+
+Coolands for Twitter is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.
+The first unique feature is Real-Time.
+You can't find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.
+The second unique feature is Avatar Indicator.
+Avatar Indicator is small avatars showed on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll keep getting incoming tweets while you’re reading, Avatar-Indicator will let you know who’s tweet you’ve just got, and decide whether to check it out right away.
+The third unique feature is Direct Link.
+I think it is obviously the most intuitive and convenient way to open a link. When you want to open a link, just click it in the time line. You can also set different notification ringtone for your friends respectively. So when you heard a notification ringtone, you’ll know who he/she is without the need to open your phone. And you can manage all the enabled User-Level-Notification settings in one place.
+Also has most of the basic twitter client features, like post/delete tweets, retweet, retweet with comment, reply, quote, send/delete direct message, subscribe/unsubscribe lists, follow/unfollow user, multiple accounts support, append picture with your tweets, mention auto complete, recent search auto complete, conversation view.
+Please give me feedbacks if you have tried it, and I PROMISE to reply all your emails.
+1.30-1.36 update:
+*Ad-Free.
+*3 times faster when launching and loading older tweets.
+*Support unlimited accounts rather than 3 accounts.
+*Support notifications for all accounts rather than only for the current account.
+*Improved mention suggestion feature.
+
+Question: What are the unique features of the Coolands for Twitter app?
+Helpful Answer:
+
+Coolands for Twitter is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.
+The first unique feature is Real-Time.
+You can't find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.
+The second unique feature is Avatar Indicator.
+Avatar Indicator is small avatars showed on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll
+The unique features of the Coolands for Twitter app include Real-Time updates without the need for a refresh button, Avatar Indicator which shows small avatars on the title bar for new messages, Direct Link for intuitive and convenient link opening, Smart Bookmark to easily return to previous reading position, and User Level Notification which allows customized notification settings for different users.
+['All Android applications categories\nDescription\nCoolands for Twitter is a revolutionary twitter client. It has many unique features, gives you the best mobile twitter experience you never imagined before.\nThe first unique feature is Real-Time.\nYou can’t find any refresh button in this app, because you absolutely don’t need to. Every time you open it, you’ll get the latest tweets and while you’re reading, you’ll get incoming tweets in Real-Time. So if your friend mentioned you, you can reply instantly.\nThe second unique feature is Avatar Indicator.\nAvatar Indicator is small avatars showed on the title bar to indicate that you’ve got new message/tweet/mention. Since it’s real-time, you’ll keep getting incoming tweets while you’re reading your older timeline, Avatar-Indicator will let you know who’s tweet you’ve just got, and decide whether to check it out right away.\nThe third unique feature is Direct Link\nI think it is obviously the most intuitive and convenient way to open a link. When you want to open a link, just click it in the time line . You can also click a username to open a profile window, click a hash tag to open a search result window. Different kind of links displayed in different colors, you can change it to whatever color you like.', '*Ad-Free.\n*3 times faster when launching and loading older tweets.\n*Support unlimited accounts rather than 3 accounts.\n*Support notifications for all accounts rather than only for the current account.\n*Improved mention suggestion feature.\n*Use URL link to do RT with comment, so you can comment more characters.\n*Conversation view, click the orange(you can change the color) username in replied tweet to show conversation view.\n*Support longer tweet, longer tweet will be converted to a picture automatically. You really should try it out your self.\n*Refined tweet composing view, to support longer tweet.\n*Support handle text shared by other app.\nfrom 103 reviews\nDownload Coolands for Twitter\nFree - V1.38 - 298K\nSorry ...\nThis app is no longer available.\nShare this app\nScreenshots', 'The fifth unique feature is User Level Notification\nNotification for all your new tweets is meaningless, if you following more than a few users, you’ll get new tweets all the time. What if you only want to be notified when someone you most care about posted a new tweet? In this app, it’s easy. You can change your friend’s notification setting directly in his/her profile screen. You can also set different notification ringtone for your friends respectively. So when you heard a notification ringtone, you’ll know who he/she is without the need to open your phone. And you can manage all the enabled User-Level-Notification settings in one place.\nAlso has most of the basic twitter client features, like post/delete tweets, retweet, retweet with comment, reply, quote, send/delete direct message, subscribe/unsubscribe lists, follow/unfollow user, multiple accounts support, append picture with your tweets, mention auto complete, recent search auto complete, conversation view.\nPlease give me feedbacks if you have tried it, and I PROMISE to reply all your emails.\n1.30-1.36 update:\n*Ad-Free.\n*3 times faster when launching and loading older tweets.\n*Support unlimited accounts rather than 3 accounts.\n*Support notifications for all accounts rather than only for the current account.\n*Improved mention suggestion feature.']
+-------------
+DEEPEVAL
+1.0
+The score is 1.00 because all the retrieval contexts are relevant and directly address the unique features of the Coolands for Twitter app.
+1.0
+The score is 1.00 because the expected output perfectly aligns with the information retrieved from the 1st node in the retrieval context, showcasing a high level of contextual recall.
+0.9666666666666667
+The score is 0.97 because despite some irrelevant statements like 'All Android applications categories', the majority of the output is highly relevant to addressing the unique features of the Coolands for Twitter app.
+0.8333333333333334
+The score is 0.83 because the actual output contains contradictions such as Coolands for Twitter not providing the latest tweets in Real-Time, only supporting 3 accounts instead of unlimited, and not supporting notifications for all accounts as claimed.
+RAGAS
+0.8333333332916666
+None
+0.8
+None
+0.0
+None
+nan
+None
+============
+============
