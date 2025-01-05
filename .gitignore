@@ -1,3 +1,4 @@
 srun.sh
 GIP_RAG/
 Q3/.deepeval_telemtry.txt
+.gitignore
