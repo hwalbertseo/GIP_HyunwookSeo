@@ -1,7 +1,7 @@
 import os
 import re
 
-OPENAI_API_KEY = "input key here"
+OPENAI_API_KEY = "YOUR KEY HERE"
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 
@@ -77,14 +77,29 @@ else:
     with open('initial generation.txt', 'r') as f:
         generated_text = f.read()
 
-questions = re.findall(r'Question (.*?)\n', generated_text)
-answers = re.findall(r'Answer (.*?)\n', generated_text)
+def extract_qa_pairs(text):
+    pattern = r"(?:Question:|Q:)\s*(.*?)\s*\n\s*(?:Answer:|A:)\s*([\s\S]*?)(?=\n\s*(?:Question:|Q:)|\Z)"
+
+    matches = re.findall(pattern, text, re.MULTILINE)
+
+    questions, answers = [], []
+    for q_text, a_text in matches:
+        questions.append(q_text.strip())
+        answers.append(a_text.strip())
+
+    return questions, answers
+
+generated_text = generated_text.replace("<|endoftext|>", "")
+questions, answers = extract_qa_pairs(generated_text)
 
 hallucination = HallucinationMetric(model="gpt-3.5-turbo")
 
 passed_questions = []
 passed_answers = []
 test_case = []
+
+print(questions)
+print(answers)
 
 for i in range(len(questions)):
     print(questions[i], answers[i], type(page.summary))

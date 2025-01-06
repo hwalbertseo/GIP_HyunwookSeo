@@ -1,6 +1,6 @@
 import os
 
-OPENAI_API_KEY = "input key here"
+OPENAI_API_KEY = "YOUR KEY HERE"
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 
